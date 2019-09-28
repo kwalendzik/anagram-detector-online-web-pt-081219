@@ -7,7 +7,7 @@ def initialize(word)
 end
   
 def match(array)
-  
+  array.split("")
 end
   
   
