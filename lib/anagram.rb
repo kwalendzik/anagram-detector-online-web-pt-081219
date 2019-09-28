@@ -9,7 +9,5 @@ end
 def match(array)
   array.select { |x| x.chars.sort == @word.chars.sort}
 end
-  
-  
-  
+
 end
